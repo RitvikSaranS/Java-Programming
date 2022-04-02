@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "data types, variables, literals",
-        "Exception Handling in Java"
+        "Exception Handling in Java",
+        "OOP in Java"
     ]
 }

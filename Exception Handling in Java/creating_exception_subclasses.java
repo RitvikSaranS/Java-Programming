@@ -19,6 +19,6 @@ class Nameexception extends Exception{
     @Override
     public String toString() {
         // TODO Auto-generated method stub
-        return "Permission denied" + name;
+        return "Permission denied " + name;
     }
 }
