@@ -41,5 +41,8 @@ public class Basic_Inheritance {
         Coloured_Box a = new Coloured_Box(2, 3, 4, "Blue");
         a.findArea();
         a.getColour();
+
+        Box b = new Coloured_Box(3, 4, 5, "Red");
+        b.findArea(); //Parent reference variable can point to child instance. But can only access parent members.
     }
 }
